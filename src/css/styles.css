@@ -1,0 +1,101 @@
+body {
+  background-color: #f8f8f8;
+  margin: 0;
+}
+
+#root {
+  max-width: 1200px;
+  margin: auto;
+  background-color: #ffffff;
+}
+
+.logo {
+  font-family: 'Poppins', sans-serif;
+  font-size: 2rem;
+  font-weight: 800;
+  color: #f22319;
+  margin: 0rem 0rem 0rem;
+  padding: 1rem 1rem;
+}
+.logo:hover{
+  text-decoration: none;
+  color: #f22319;
+}
+
+.black-menu {
+  background-color: #051416;
+}
+
+.nav-link {
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.page-header{
+  background-image: url("../images/header.jpg");
+  height: 150px;
+  max-width: 100%;
+}
+
+.page-header-p {
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 3rem;
+  font-weight: 600;
+  text-align: center;
+  padding-top: 1.5rem;
+}
+.img-card{
+  height: 200px;
+  width: 250px;
+  float: left;
+  padding-right: 1rem;
+}
+
+.btn-secondary{
+  background-color: #ffffff;
+  color: #051416;
+}
+.filter-button{
+  width: 15rem;
+}
+
+.select{
+  width: 15rem;
+  height: 2rem;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1rem;
+  background-color: #ffffff;
+  margin-bottom: 1.5rem;
+}
+
+.card-column {
+  width: 70%;
+}
+form {
+  padding: 4rem 2rem 2rem 2rem;
+  max-width: 70%;
+  margin: auto;
+}
+
+.form-select {
+  margin-bottom: 1.5rem;
+}
+
+.btn-primary{
+  margin-top: 1.5rem;
+  width: 7rem;
+}
+
+.edit{
+  width: 100%;
+  margin: auto;
+}
+
+.link-none{
+  color: #212528
+}
+.link-none:hover{
+  text-decoration: none;
+  color: #212528
+}
